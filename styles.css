@@ -1,0 +1,32 @@
+.dropdown-menu.dropdown-izq {
+    left: auto;
+    right: 0;
+    transform: translateX(-100px);
+}
+
+.img-fluid.img-2x2 {
+    object-fit: cover;
+    height: 400px;
+}
+
+.card {
+    max-width: 500px;
+}
+
+.modal-body label {
+    font-weight: 600;
+}
+
+#botonx {
+    margin-left: 55%;
+}
+
+.nav-pills .nav-link {
+  background-color: transparent;
+  color: gray;
+}
+
+.nav-pills .nav-link.active {
+  color: #0d6efd; 
+  background-color: transparent;
+}
